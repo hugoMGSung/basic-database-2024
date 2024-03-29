@@ -85,4 +85,10 @@ IoT 개발자과정 SQLServer 학습 리포지토리
             - SUM(총합), AVG(평균), COUNT(개수), MIN(최소), MAX(최대값)
             - 집계함수 외 일반 컬럼은 GROUP BY 절에 속한 컬럼만 SELECT문에 사용가능 
             - HAVING은 집계함수의 필터로 GROUP BY 뒤에 작성. WHERE절과 필터링이 다르다.
-            
+
+        - 두개 이상의 테이블 질의(Query)
+            - 관계형 DB에서 가장 중요한 기법중 하나 : JOIN!
+            - INNER JOIN(내부 조인) [참조](https://sql-joins.leopard.in.ua/)
+            - LEFT|RIGHT OUTER JOIN(외부 조인) - 어느 테이블이 기준인지에 따라서 결과가 상이함
+
+        ![외부조인](https://raw.githubusercontent.com/hugoMGSung/basic-database-2024/main/images/db004.png)
