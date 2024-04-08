@@ -307,7 +307,7 @@ IoT 개발자과정 SQLServer 학습 리포지토리
     <!-- md 주석. ![인덱스](https://raw.githubusercontent.com/hugoMGSung/basic-database-2024/main/images/db006.png) -->
     ![인덱스](https://raw.githubusercontent.com/hugoMGSung/basic-database-2024/main/images/db006.png)
     <!-- html img태그가 이미지 사이즈 조정 가능 -->
-    <img src="https://raw.githubusercontent.com/hugoMGSung/basic-database-2024/main/images/db006.png" width="900">
+    <img src="https://raw.githubusercontent.com/hugoMGSung/basic-database-2024/main/images/db006.png" width="600">
 
 ## 8일차
 - 인덱스 예제
